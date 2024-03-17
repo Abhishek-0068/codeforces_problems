@@ -1,5 +1,7 @@
 # Exclude all files
 *
 
+!/**/
+
 # Re-include files with an extension
 !*.*
